@@ -2,3 +2,4 @@ aiogram
 emoji
 pillow
 ffmpeg
+fontTools
